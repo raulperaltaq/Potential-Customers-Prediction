@@ -54,3 +54,40 @@ def segment_lead(row):
         return 'Warm'
     else:
         return 'Cold'
+```
+
+Resumen de segmentos:
+- Hot: visitas altas, perfiles completos, referidos → mayor probabilidad de conversión
+- Warm: visitas moderadas → probabilidad media
+- Cold: baja interacción → baja probabilidad
+
+Factores Clave de Conversión
+- Engagement en el sitio web: más tiempo y páginas vistas → mayor conversión.
+- Perfil completo: leads con 75–100% de perfil completado convierten más.
+- Primer canal de interacción: leads vía sitio web convierten más que vía app.
+- Última actividad: email es el canal más efectivo para re-engagement.
+- Referidos: aunque pocos, tienen la tasa de conversión más alta (67.7%).
+
+Perfil de Leads con Alta Conversión
+- Edad: promedio ~50 años (profesionales y desempleados convierten más).
+- Ocupación: profesionales > desempleados > estudiantes.
+- Primer interacción: sitio web.
+- Perfil completo (75–100%).
+- Alta actividad en el sitio (visitas, tiempo, páginas).
+- Última actividad: website o teléfono.
+- Fuente: referidos.
+
+Implicaciones de Negocio
+- Marketing: mejorar experiencia web y fomentar completar perfiles.
+- Ventas: priorizar leads con alto engagement web y referidos.
+- Producto: añadir funcionalidades que incentiven visitas y exploración.
+- Campañas:
+- Incentivar referidos
+- Promover completitud de perfil
+- Mejorar experiencia en la app móvil
+
+Conclusión
+El modelo de ML permite a ExtraaLearn:
+- Asignar recursos de manera eficiente
+- Mejorar tasas de conversión
+- Crecer su base de clientes enfocándose en los leads más prometedores
